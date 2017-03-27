@@ -1,15 +1,15 @@
 # Piggy-Bank
 Piggy Bank that allows users to add coins or bills. When piggy bank is emptied, it calculates the coins/bill that have landed heads. </br>
 </br>
-•	check the capacity of the piggy bank,
-•	you can add money to the piggy bank one at a time, adding may fails if there is no more room in the piggy bank (PiggyBankFullException will be thrown that must be handled by the client) 
-•	remove one (you shake the piggy bank, so you have no control over what coin or paper bill falls out), 
-•	see whether the piggy bank is empty, 
-•	see how many coins/paper bills are in the bank, 
-•	see the content of the piggy bank,
-•	shake the piggy bank to rearrange its content
-•	empty the piggy bank and counting how many coins/paper bills landed HEADS
-
+•	check the capacity of the piggy bank,</br>
+•	you can add money to the piggy bank one at a time, adding may fails if there is no more room in the piggy bank</br> (PiggyBankFullException will be thrown that must be handled by the client) </br>
+•	remove one (you shake the piggy bank, so you have no control over what coin or paper bill falls out), </br>
+•	see whether the piggy bank is empty, </br>
+•	see how many coins/paper bills are in the bank, </br>
+•	see the content of the piggy bank,</br>
+•	shake the piggy bank to rearrange its content</br>
+•	empty the piggy bank and counting how many coins/paper bills landed HEADS</br>
+</br>
 How many coins/bills can fit in your piggy bank?</br>
 10</br>
 How many coins/bills do you want to add to your bank?</br>
